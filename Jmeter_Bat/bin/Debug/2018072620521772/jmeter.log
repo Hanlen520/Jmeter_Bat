@@ -1,0 +1,77 @@
+2018-07-26 20:52:18,508 INFO o.a.j.u.JMeterUtils: Setting Locale to zh_CN
+2018-07-26 20:52:18,520 INFO o.a.j.JMeter: Loading user properties from: D:\apache-jmeter-4.0\bin\user.properties
+2018-07-26 20:52:18,521 INFO o.a.j.JMeter: Loading system properties from: D:\apache-jmeter-4.0\bin\system.properties
+2018-07-26 20:52:18,521 INFO o.a.j.JMeter: Setting JMeter property: room_index=110000
+2018-07-26 20:52:18,521 INFO o.a.j.JMeter: Setting JMeter property: id_index=11000
+2018-07-26 20:52:18,521 INFO o.a.j.JMeter: Setting JMeter property: teacher_id_index=12000
+2018-07-26 20:52:18,525 INFO o.a.j.JMeter: Copyright (c) 1998-2018 The Apache Software Foundation
+2018-07-26 20:52:18,525 INFO o.a.j.JMeter: Version 4.0 r1823414
+2018-07-26 20:52:18,525 INFO o.a.j.JMeter: java.version=1.8.0_171
+2018-07-26 20:52:18,525 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2018-07-26 20:52:18,525 INFO o.a.j.JMeter: os.name=Windows 7
+2018-07-26 20:52:18,526 INFO o.a.j.JMeter: os.arch=amd64
+2018-07-26 20:52:18,526 INFO o.a.j.JMeter: os.version=6.1
+2018-07-26 20:52:18,526 INFO o.a.j.JMeter: file.encoding=GBK
+2018-07-26 20:52:18,526 INFO o.a.j.JMeter: Max memory     =4294967296
+2018-07-26 20:52:18,526 INFO o.a.j.JMeter: Available Processors =4
+2018-07-26 20:52:18,529 INFO o.a.j.JMeter: Default Locale=English (EN)
+2018-07-26 20:52:18,529 INFO o.a.j.JMeter: JMeter  Locale=Chinese (China)
+2018-07-26 20:52:18,529 INFO o.a.j.JMeter: JMeterHome=D:\apache-jmeter-4.0
+2018-07-26 20:52:18,529 INFO o.a.j.JMeter: user.dir  =C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\bin\Debug
+2018-07-26 20:52:18,530 INFO o.a.j.JMeter: PWD       =C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\bin\Debug
+2018-07-26 20:52:18,530 INFO o.a.j.JMeter: IP: 10.63.2.228 Name: PC-20160827KNSM FullName: PC-20160827KNSM
+2018-07-26 20:52:18,532 INFO o.a.j.JMeter: Setting property 'jmeter.reportgenerator.outputdir' to:'C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\bin\Debug\.\2018072620521772\Report'
+2018-07-26 20:52:18,533 INFO o.a.j.s.FileServer: Default base='C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\bin\Debug'
+2018-07-26 20:52:18,538 INFO o.a.j.s.FileServer: Set new base='C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\bin\Debug'
+2018-07-26 20:52:18,647 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2018-07-26 20:52:18,659 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2018-07-26 20:52:18,662 INFO o.a.j.s.SaveService: Using SaveService properties version 4.0
+2018-07-26 20:52:18,667 INFO o.a.j.s.SaveService: Loading file: 1V1_WebSocket.jmx
+2018-07-26 20:52:18,788 INFO o.a.j.JMeter: Creating summariser <summary>
+2018-07-26 20:52:18,792 INFO o.a.j.r.d.ReportGenerator: ReportGenerator will use for Parsing the separator: ','
+2018-07-26 20:52:18,793 INFO o.a.j.r.d.ReportGenerator: Will generate report at end of test from  results file: ./2018072620521772/Jtl/1V1_WebSocket.csv
+2018-07-26 20:52:18,793 INFO o.a.j.r.d.ReportGenerator: Reading report generator properties from: D:\apache-jmeter-4.0\bin\reportgenerator.properties
+2018-07-26 20:52:18,793 INFO o.a.j.r.d.ReportGenerator: Merging with JMeter properties
+2018-07-26 20:52:18,798 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.temp_dir' not found, using default value 'temp' instead.
+2018-07-26 20:52:18,802 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.apdex_per_transaction' not found, using default value 'null' instead.
+2018-07-26 20:52:18,805 INFO o.a.j.r.c.ReportGeneratorConfiguration: apdex_per_transaction : {} is empty, not APDEX per transaction customization
+2018-07-26 20:52:18,805 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.sample_filter' not found, using default value 'null' instead.
+2018-07-26 20:52:18,805 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.report_title' not found, using default value 'null' instead.
+2018-07-26 20:52:18,806 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.start_date' not found, using default value 'null' instead.
+2018-07-26 20:52:18,806 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.end_date' not found, using default value 'null' instead.
+2018-07-26 20:52:18,806 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.date_format' not found, using default value 'null' instead.
+2018-07-26 20:52:18,806 INFO o.a.j.r.c.ReportGeneratorConfiguration: Will use date range start date: null, end date: null
+2018-07-26 20:52:18,810 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.activeThreadsOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-07-26 20:52:18,810 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.timeVsThreads.exclude_controllers' not found, using default value 'false' instead.
+2018-07-26 20:52:18,810 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimeDistribution.exclude_controllers' not found, using default value 'false' instead.
+2018-07-26 20:52:18,811 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.transactionsPerSecond.exclude_controllers' not found, using default value 'false' instead.
+2018-07-26 20:52:18,811 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentiles.exclude_controllers' not found, using default value 'false' instead.
+2018-07-26 20:52:18,811 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimePercentilesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-07-26 20:52:18,811 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.responseTimesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-07-26 20:52:18,811 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.connectTimeOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-07-26 20:52:18,811 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.graph.latenciesOverTime.exclude_controllers' not found, using default value 'false' instead.
+2018-07-26 20:52:18,812 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.filters_only_sample_series' not found, using default value 'true' instead.
+2018-07-26 20:52:18,812 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.series_filter' not found, using default value '' instead.
+2018-07-26 20:52:18,812 INFO o.a.j.r.c.ReportGeneratorConfiguration: Property 'jmeter.reportgenerator.exporter.html.show_controllers_only' not found, using default value 'false' instead.
+2018-07-26 20:52:18,820 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2018-07-26 20:52:18,821 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-07-26 20:52:18,821 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2018-07-26 20:52:18,825 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2018-07-26 20:52:18,825 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2018-07-26 20:52:19,104 INFO o.a.j.r.ResultCollector: Folder at C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\bin\Debug\2018072620521772\Jtl was created
+2018-07-26 20:52:19,113 INFO o.a.j.JMeter: 正在运行的测试 (1532609539113)
+2018-07-26 20:52:19,143 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : 递增场景 - 学生
+2018-07-26 20:52:19,144 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group 递增场景 - 学生.
+2018-07-26 20:52:19,144 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-07-26 20:52:19,147 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 2 : 递增场景 - 老师
+2018-07-26 20:52:19,147 INFO o.a.j.e.StandardJMeterEngine: Starting 10 threads for group 递增场景 - 老师.
+2018-07-26 20:52:19,148 INFO c.b.j.t.c.ConcurrencyThreadStarter: Start supplying threads
+2018-07-26 20:52:19,148 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2018-07-26 20:52:19,149 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2018-07-26 20:52:19,149 INFO c.b.j.t.c.ConcurrencyThreadStarter: Start supplying threads
+2018-07-26 20:52:19,153 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2018-07-26 20:52:19,153 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2018-07-26 20:52:19,153 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2018-07-26 20:52:19,153 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2018-07-26 20:52:19,154 INFO o.a.j.t.JMeterThread: Thread started: 递增场景 - 老师 2-1
+2018-07-26 20:52:19,154 INFO o.a.j.t.JMeterThread: Thread started: 递增场景 - 学生 1-1

@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\bin\Debug\WebSocketTestBat.exe.config
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\bin\Debug\WebSocketTestBat.exe
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\bin\Debug\WebSocketTestBat.pdb
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\obj\Debug\WebSocketTestBat.Form1.resources
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\obj\Debug\WebSocketTestBat.Properties.Resources.resources
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\obj\Debug\WebSocketTestBat.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\obj\Debug\WebSocketTestBat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\obj\Debug\WebSocketTestBat.exe
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\obj\Debug\WebSocketTestBat.pdb
+C:\Users\Administrator\source\repos\WebSocketTestBat\WebSocketTestBat\obj\Debug\WebSocketTestBat.csprojAssemblyReference.cache

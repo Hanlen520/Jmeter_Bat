@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\bin\Debug\Jmeter_Bat.exe.config
+C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\bin\Debug\Jmeter_Bat.exe
+C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\bin\Debug\Jmeter_Bat.pdb
+C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\obj\Debug\Jmeter_Bat.Form1.resources
+C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\obj\Debug\Jmeter_Bat.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\obj\Debug\Jmeter_Bat.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\obj\Debug\Jmeter_Bat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\obj\Debug\Jmeter_Bat.exe
+C:\Users\Administrator\source\repos\Jmeter_Bat\Jmeter_Bat\obj\Debug\Jmeter_Bat.pdb
